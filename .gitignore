@@ -1,0 +1,19 @@
+# 자막·전사 원문은 남의 저작물이라 올리지 않는다. URL 이 살아 있으면 다시 받는다.
+*/sources/yt-*.md
+
+# 실험이 남기는 부산물
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+*.log
+
+# 참고용으로 받아 둔 남의 저장소
+*/lab/repos/
+
+# 비밀
+.env
+.env.*
+
+.DS_Store
